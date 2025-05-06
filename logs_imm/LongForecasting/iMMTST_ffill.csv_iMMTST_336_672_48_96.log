@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\86136\Desktop\水质预测模型实验\DECSF-Net\run_longExp_imm.py", line 6, in <module>
+    from exp.exp_main_imm import Exp_Main_MM
+  File "C:\Users\86136\Desktop\水质预测模型实验\DECSF-Net\exp\exp_main_imm.py", line 1, in <module>
+    from thop import profile, clever_format
+ModuleNotFoundError: No module named 'thop'
