@@ -38,3 +38,5 @@ models 存放模型代码
 checkpoints 存放模型权重
 
 tf_logs 是 tensorboard 训练记录
+
+model weights：[**Google**]([https://www.anaconda.com/https://drive.google.com/file/d/1VhjCpHJ6Z2YrLazz4DWETq7AMnPmkjPj/view?usp=drive_link])
